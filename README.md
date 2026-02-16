@@ -23,16 +23,16 @@ Flask Framework (Python)
 
 🙂Architecture:
 User Query
-   ↓
+   ->
 Angular Frontend
-   ↓
+   ->
 Node.js (Express API Layer)
-   ↓
+   ->
 Flask NLP Engine
-   ↓
+   ->
 Beckn API Integration
-   ↓
+   ->
 External Agricultural Services
-   ↓
+   ->
 Processed Response to User
 
